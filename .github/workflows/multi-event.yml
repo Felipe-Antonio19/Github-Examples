@@ -17,4 +17,4 @@ jobs:
           echo "Job ID: $GITHUB_JOB"
           echo "Action: $GITHUB_ACTION"
           echo "Actor: $GITHUB_ACTOR"
-          echo "Este é um teste do multi-event.yml"
+          echo "Teste do multi-event.yml"
